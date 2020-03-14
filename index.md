@@ -3,7 +3,7 @@
 ### Services
 - Domain Registration
 - Gmail at your own domain
-- Basic websites
+- Free website hosting
 - Web applications
 - eCommerce
 - Mobile apps
